@@ -24,3 +24,29 @@
         "mango chunks",
         "clover honey"
       ],
+      "image": "peach-mango.svg"
+    },
+    {
+      "name": "Strawberry Dream",
+      "calories": 300,
+      "type": "sorbet",
+      "ingredients": [
+        "fresh strawberries",
+        "lime juice",
+        "coconut milk"
+      ],
+      "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Caramel Crunch",
+      "calories": 450,
+      "type": "ice cream",
+      "ingredients": [
+        "caramel sauce",
+        "crushed almonds",
+        "vanilla bean"
+      ],
+      "image": "caremal crunch.jpeg"
+    }
+  ]
+}
