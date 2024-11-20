@@ -8,7 +8,7 @@
   body {
 	font-family: 'Arial', sans-serif;
 	line-height: 1.6;
-	background-color: #f4f4f4;
+	background-color: #d39191;
 	padding: 20px;
   }
   
@@ -30,8 +30,8 @@
   }
   
   article {
-	background-color: #fff;
-	border: 1px solid #ddd;
+	background-color: #a594f1;
+	border: 1px solid #0a0909;
 	border-radius: 8px;
 	width: 300px;
 	padding: 20px;
